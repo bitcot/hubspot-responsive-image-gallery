@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="https://cdn2.hubspot.net/hubfs/7029090/simplelightbox.min.css">
+<script src="https://cdn2.hubspot.net/hubfs/7029090/simple-lightbox.min.js"></script>
+<div class="gallery masonryeffectcontent{{ module.show_grid_layout }}"> 
+  {% for item in module.images_gallary %}
+    {% if item.big_image.src %}		
+      <a href="{{ item.big_image.src }}" class="big masonry_item">
+        {% if item.thumb_image.src %}
+          <img src="{{ item.thumb_image.src }}" alt="{{ item.thumb_image.alt }}" title="{{ item.thumb_image.alt }}">
+        {% endif %}
+      </a>
+    {% endif %}
+  {% endfor %}  
+  </div>
