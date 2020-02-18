@@ -1,0 +1,28 @@
+{
+  "content_tags" : [ {
+    "name" : "GALLERY",
+    "source" : "USER"
+  }, {
+    "name" : "IMAGE",
+    "source" : "USER"
+  } ],
+  "css_assets" : [ {
+    "url" : "https://cdn2.hubspot.net/hubfs/7029090/simplelightbox.min.css",
+    "name" : "simplelightbox.min.css",
+    "autoload" : true
+  } ],
+  "external_js" : [ ],
+  "extra_classes" : "",
+  "global" : false,
+  "host_template_types" : [ "PAGE" ],
+  "js_assets" : [ {
+    "url" : "https://cdn2.hubspot.net/hubfs/7029090/simple-lightbox.min.js",
+    "name" : "simple-lightbox.min.js",
+    "autoload" : true
+  } ],
+  "master_language" : "en",
+  "other_assets" : [ ],
+  "smart_type" : "NOT_SMART",
+  "module_id" : 24990022105,
+  "is_available_for_new_content" : true
+}

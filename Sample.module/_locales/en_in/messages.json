@@ -1,0 +1,87 @@
+{
+  "images_gallary.big_image.default.alt" : {
+    "message" : "big-image",
+    "description" : null,
+    "placeholders" : null
+  },
+  "images_gallary.big_image.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "images_gallary.big_image.label" : {
+    "message" : "Big Image",
+    "description" : null,
+    "placeholders" : null
+  },
+  "images_gallary.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "images_gallary.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "images_gallary.label" : {
+    "message" : "Field group",
+    "description" : null,
+    "placeholders" : null
+  },
+  "images_gallary.thumb_image.default.alt" : {
+    "message" : "thumb-gallary",
+    "description" : null,
+    "placeholders" : null
+  },
+  "images_gallary.thumb_image.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "images_gallary.thumb_image.label" : {
+    "message" : "thumb Image",
+    "description" : null,
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Responsive Image Gallary with Masonry",
+    "description" : null,
+    "placeholders" : null
+  },
+  "show_grid_columns.choices.value 1" : {
+    "message" : "Label 1",
+    "description" : null,
+    "placeholders" : null
+  },
+  "show_grid_layout.choices.Grid 3" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "show_grid_layout.choices.value 2" : {
+    "message" : "Label 2",
+    "description" : null,
+    "placeholders" : null
+  },
+  "show_grid_layout.default" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "show_grid_layout.help_text" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  },
+  "show_grid_layout.label" : {
+    "message" : "Choice",
+    "description" : null,
+    "placeholders" : null
+  },
+  "show_grid_layout.placeholder" : {
+    "message" : "",
+    "description" : null,
+    "placeholders" : null
+  }
+}
